@@ -1,2 +1,2 @@
-# miprimerrepo
-Es mi primer repo
+# miprimer proyecto de github
+una nueva version 
