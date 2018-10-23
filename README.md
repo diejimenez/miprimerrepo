@@ -1,2 +1,2 @@
-# miprimer proyecto de github
+# mi primer proyecto de github
 una nueva version 
